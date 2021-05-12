@@ -45,7 +45,7 @@
     "react-scroll": "^1.7.9",
     "react-tilt": "^0.1.4",
     "redux": "^4.0.1",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "video-react": "^0.13.5",
     "whatwg-fetch": "^2.0.4"
   },
